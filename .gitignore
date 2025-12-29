@@ -26,6 +26,11 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.gitattributes
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 
 ### NetBeans ###
 /nbproject/private/
